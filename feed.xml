@@ -3,7 +3,7 @@
     <title>Linus + Esperanza</title>
     <link href="https://linusesperanza.github.io/feed.xml" rel="self" />
     <link href="https://linusesperanza.github.io" />
-    <updated>2025-03-31T10:14:50+02:00</updated>
+    <updated>2025-03-31T10:29:37+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -22,7 +22,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://linusesperanza.github.io/media/posts/2/IMG-20230630-WA0003-2.jpg" alt="" />
-                    test 15/04/2026
+                    test 15-04-2026
                 ]]>
             </summary>
         <content type="html">
@@ -32,7 +32,8 @@
   <p>
     test
   </p>
-<div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script><a data-type="countdown" data-id="6986596" class="tickcounter" style="display:block; left:0; width:20%; height:0; position:relative; padding-bottom:9%; margin:0 auto;" title="15/04/2026" href="//www.tickcounter.com/">15/04/2026</a>
+<div><script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-style="circles" data-timezone="Europe/Stockholm" data-textcolor="#000000" data-date="2026-04-15 12:00" data-background="#3b5998" data-digitscolor="#3b5998" data-unitscolor="#000000">15-04-2026</a>
 </div>
             ]]>
         </content>
