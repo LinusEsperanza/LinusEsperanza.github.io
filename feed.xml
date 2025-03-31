@@ -3,10 +3,30 @@
     <title>LinusEsperanza</title>
     <link href="https://linusesperanza.github.io/feed.xml" rel="self" />
     <link href="https://linusesperanza.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-03-31T09:01:53+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
     <id>https://linusesperanza.github.io</id>
 
+    <entry>
+        <title>Wedding plan</title>
+        <author>
+            <name>Linus Lejdfelt</name>
+        </author>
+        <link href="https://linusesperanza.github.io/wedding-plan.html"/>
+        <id>https://linusesperanza.github.io/wedding-plan.html</id>
+
+        <updated>2025-03-31T09:01:53+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://linusesperanza.github.io/media/posts/2/IMG-20230617-WA0002.jpg" height="1024" width="768" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-xs.jpg 300w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-sm.jpg 480w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-md.jpg 768w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-lg.jpg 1024w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-xl.jpg 1360w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-2xl.jpg 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
