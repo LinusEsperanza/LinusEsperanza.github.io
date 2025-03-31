@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "LinusEsperanza",
+    "title": "Linus + Esperanza",
     "description": "",
     "home_page_url": "https://linusesperanza.github.io",
     "feed_url": "https://linusesperanza.github.io/feed.json",
@@ -13,14 +13,16 @@
             "id": "https://linusesperanza.github.io/wedding-plan.html",
             "url": "https://linusesperanza.github.io/wedding-plan.html",
             "title": "Wedding plan",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://linusesperanza.github.io/media/posts/2/IMG-20230617-WA0002.jpg\" height=\"1024\" width=\"768\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-xs.jpg 300w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-sm.jpg 480w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-md.jpg 768w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-lg.jpg 1024w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-xl.jpg 1360w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230617-WA0002-2xl.jpg 1600w\">\n      \n    </figure>",
+            "summary": "test",
+            "content_html": "\n  <p>\n    test\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://linusesperanza.github.io/media/posts/2/IMG-20230630-WA0003.jpg\" height=\"1000\" width=\"1500\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230630-WA0003-xs.jpg 300w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230630-WA0003-sm.jpg 480w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230630-WA0003-md.jpg 768w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230630-WA0003-lg.jpg 1024w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230630-WA0003-xl.jpg 1360w ,https://linusesperanza.github.io/media/posts/2/responsive/IMG-20230630-WA0003-2xl.jpg 1600w\">\n      \n    </figure>",
+            "image": "https://linusesperanza.github.io/media/posts/2/IMG-20250331-WA0000.jpg",
             "author": {
                 "name": "Linus Lejdfelt"
             },
             "tags": [
             ],
             "date_published": "2025-03-31T09:01:53+02:00",
-            "date_modified": "2025-03-31T09:01:53+02:00"
+            "date_modified": "2025-03-31T09:20:17+02:00"
         }
     ]
 }
