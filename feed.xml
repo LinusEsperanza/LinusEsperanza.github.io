@@ -3,7 +3,7 @@
     <title>L 🤍 E</title>
     <link href="https://linusesperanza.github.io/feed.xml" rel="self" />
     <link href="https://linusesperanza.github.io" />
-    <updated>2025-04-01T15:19:36+02:00</updated>
+    <updated>2025-04-01T15:25:04+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -138,8 +138,34 @@
 </div>
 
   <p class="align-center">
-    You're invited to celebrate with us. This is the place to get all the information you need. And to RSVP, of course. We can't wait to see you there.<br>
+    You're invited to celebrate with us. This is the place to get all the information you need. And to RSVP, of course. We can't wait to see you there.
   </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="4">
+      <figure class="gallery__item">
+      <a href="https://linusesperanza.github.io/media/posts/2/gallery/IMG-20240825-WA0006.jpg" data-size="1200x1599">
+        <img loading="lazy" src="https://linusesperanza.github.io/media/posts/2/gallery/IMG-20240825-WA0006-thumbnail.jpg" height="1023" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://linusesperanza.github.io/media/posts/2/gallery/IMG-20240426-WA0004.jpg" data-size="1200x1600">
+        <img loading="lazy" src="https://linusesperanza.github.io/media/posts/2/gallery/IMG-20240426-WA0004-thumbnail.jpg" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://linusesperanza.github.io/media/posts/2/gallery/IMG-20230623-WA0010.jpg" data-size="934x1024">
+        <img loading="lazy" src="https://linusesperanza.github.io/media/posts/2/gallery/IMG-20230623-WA0010-thumbnail.jpg" height="842" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://linusesperanza.github.io/media/posts/2/gallery/IMG-20230617-WA0000.jpg" data-size="768x1024">
+        <img loading="lazy" src="https://linusesperanza.github.io/media/posts/2/gallery/IMG-20230617-WA0000-thumbnail.jpg" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
