@@ -3,7 +3,7 @@
     <title>L 🤍 E</title>
     <link href="https://linusesperanza.github.io/feed.xml" rel="self" />
     <link href="https://linusesperanza.github.io" />
-    <updated>2025-04-01T14:41:18+02:00</updated>
+    <updated>2025-04-01T14:47:01+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://linusesperanza.github.io/gifts.html"/>
         <id>https://linusesperanza.github.io/gifts.html</id>
+        <media:content url="https://linusesperanza.github.io/media/posts/10/gift2-2.png" medium="image" />
             <category term="INFO"/>
             <category term="GIFTS"/>
 
         <updated>2025-04-01T10:02:18+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://linusesperanza.github.io/media/posts/10/gift2-2.png" alt="" />
                     Once again, you joining is such a blessing already. However…Any contribution, big or small, towards our honeymoon fund will help&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://linusesperanza.github.io/media/posts/10/gift2-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Once again, you joining is such a blessing already. However…Any contribution, big or small, towards our honeymoon fund will help us make memories that will last a lifetime. More details coming soon.<figure class="post__image post__image--center"><img loading="lazy"  src="https://linusesperanza.github.io/media/posts/10//gift2.png" alt="" width="221" height="219" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://linusesperanza.github.io/media/posts/10//responsive/gift2-xs.png 300w ,https://linusesperanza.github.io/media/posts/10//responsive/gift2-sm.png 480w ,https://linusesperanza.github.io/media/posts/10//responsive/gift2-md.png 768w ,https://linusesperanza.github.io/media/posts/10//responsive/gift2-lg.png 1024w ,https://linusesperanza.github.io/media/posts/10//responsive/gift2-xl.png 1360w"></figure>
             ]]>
         </content>
