@@ -3,7 +3,7 @@
     <title>L 🤍 E</title>
     <link href="https://linusesperanza.github.io/feed.xml" rel="self" />
     <link href="https://linusesperanza.github.io" />
-    <updated>2025-04-01T14:54:14+02:00</updated>
+    <updated>2025-04-01T15:19:36+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -47,7 +47,6 @@
         <id>https://linusesperanza.github.io/gifts.html</id>
         <media:content url="https://linusesperanza.github.io/media/posts/10/gift2-2.png" medium="image" />
             <category term="INFO"/>
-            <category term="GIFTS"/>
 
         <updated>2025-04-01T10:02:18+02:00</updated>
             <summary>
@@ -72,7 +71,6 @@
         <id>https://linusesperanza.github.io/dress-code-2.html</id>
         <media:content url="https://linusesperanza.github.io/media/posts/9/outfit-2.png" medium="image" />
             <category term="INFO"/>
-            <category term="DRESS CODE"/>
 
         <updated>2025-04-01T09:59:33+02:00</updated>
             <summary>
@@ -96,7 +94,6 @@
         <link href="https://linusesperanza.github.io/kids.html"/>
         <id>https://linusesperanza.github.io/kids.html</id>
         <media:content url="https://linusesperanza.github.io/media/posts/3/Linus-2.png" medium="image" />
-            <category term="KIDS"/>
             <category term="INFO"/>
 
         <updated>2025-03-31T11:02:19+02:00</updated>
@@ -143,20 +140,6 @@
   <p class="align-center">
     You're invited to celebrate with us. This is the place to get all the information you need. And to RSVP, of course. We can't wait to see you there.<br>
   </p>
-
-    <figure class="post__image post__image--center">
-      <a href="#non-existing-page-with-id-3">
-        <img loading="lazy" src="https://linusesperanza.github.io/media/posts/2/test2.png" height="682" width="2820" alt="KIDS"  sizes="(max-width: 768px) 100vw, 1360px" srcset="https://linusesperanza.github.io/media/posts/2/responsive/test2-xs.png 300w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-sm.png 480w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-md.png 768w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-lg.png 1024w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-xl.png 1360w">
-      </a>
-      <figcaption>KIDS</figcaption>
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <a href="#non-existing-page-with-id-9">
-        <img loading="lazy" src="https://linusesperanza.github.io/media/posts/2/test2-2.png" height="682" width="2820" alt="Dresscode"  sizes="(max-width: 768px) 100vw, 1360px" srcset="https://linusesperanza.github.io/media/posts/2/responsive/test2-2-xs.png 300w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-2-sm.png 480w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-2-md.png 768w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-2-lg.png 1024w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-2-xl.png 1360w">
-      </a>
-      <figcaption>Dresscode</figcaption>
-    </figure>
             ]]>
         </content>
     </entry>
