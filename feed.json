@@ -14,7 +14,7 @@
             "url": "https://linusesperanza.github.io/wedding-plan.html",
             "title": "Wedding plan",
             "summary": "test 15-04-2026",
-            "content_html": "\n  <p>\n    test\n  </p>\n<div><script src=\"https://cdn.logwork.com/widget/countdown.js\"></script>\n<a href=\"https://logwork.com/countdown-timer\" class=\"countdown-timer\" data-style=\"circles\" data-timezone=\"Europe/Stockholm\" data-textcolor=\"#000000\" data-date=\"2026-04-15 12:00\" data-background=\"#3b5998\" data-digitscolor=\"#3b5998\" data-unitscolor=\"#000000\">15-04-2026</a>\n</div>",
+            "content_html": "\n  <p>\n    test\n  </p>\n<div><script src=\"https://cdn.logwork.com/widget/countdown.js\"></script>\n<a href=\"https://logwork.com/countdown-timer\" class=\"countdown-timer\" data-style=\"circles\" data-timezone=\"Europe/Stockholm\" data-textcolor=\"#000000\" data-date=\"2026-04-15 12:00\" data-background=\"#3b5998\" data-digitscolor=\"#3b5998\" data-unitscolor=\"#000000\">15-04-2026</a>\n</div>\n<div><div class=\"post__iframe\"><iframe data-tally-src=\"https://tally.so/embed/nGbbQ2?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1\" loading=\"lazy\" width=\"100%\" height=\"800\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" title=\"Will you attend our wedding? \"></iframe></div>\n<script>var d=document,w=\"https://tally.so/widgets/embed.js\",v=function(){\"undefined\"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll(\"iframe[data-tally-src]:not([src])\").forEach((function(e){e.src=e.dataset.tallySrc}))};if(\"undefined\"!=typeof Tally)v();else if(d.querySelector('script[src=\"'+w+'\"]')==null){var s=d.createElement(\"script\");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script></div>",
             "image": "https://linusesperanza.github.io/media/posts/2/IMG-20230630-WA0003-2.jpg",
             "author": {
                 "name": "Linus Lejdfelt"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-03-31T09:01:53+02:00",
-            "date_modified": "2025-03-31T10:29:37+02:00"
+            "date_modified": "2025-04-01T08:35:18+02:00"
         }
     ]
 }
