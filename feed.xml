@@ -3,7 +3,7 @@
     <title>L 🤍 E</title>
     <link href="https://linusesperanza.github.io/feed.xml" rel="self" />
     <link href="https://linusesperanza.github.io" />
-    <updated>2025-04-01T10:11:13+02:00</updated>
+    <updated>2025-04-01T10:14:53+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -50,7 +50,7 @@
     </figure>
 
     <figure class="post__image post__image--center">
-      <a href="#non-existing-page-with-id-8">
+      <a href="https://linusesperanza.github.io/dress-code-2.html">
         <img loading="lazy" src="https://linusesperanza.github.io/media/posts/2/test2-2.png" height="682" width="2820" alt="Dresscode"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://linusesperanza.github.io/media/posts/2/responsive/test2-2-xs.png 300w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-2-sm.png 480w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-2-md.png 768w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-2-lg.png 1024w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-2-xl.png 1360w ,https://linusesperanza.github.io/media/posts/2/responsive/test2-2-2xl.png 1600w">
       </a>
       <figcaption>Dresscode</figcaption>
