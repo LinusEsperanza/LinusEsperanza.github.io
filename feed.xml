@@ -3,7 +3,7 @@
     <title>L 🤍 E</title>
     <link href="https://linusesperanza.github.io/feed.xml" rel="self" />
     <link href="https://linusesperanza.github.io" />
-    <updated>2025-04-01T13:55:52+02:00</updated>
+    <updated>2025-04-01T14:41:18+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://linusesperanza.github.io/gifts.html"/>
         <id>https://linusesperanza.github.io/gifts.html</id>
+            <category term="INFO"/>
             <category term="GIFTS"/>
 
         <updated>2025-04-01T10:02:18+02:00</updated>
@@ -37,6 +38,7 @@
         </author>
         <link href="https://linusesperanza.github.io/dress-code-2.html"/>
         <id>https://linusesperanza.github.io/dress-code-2.html</id>
+            <category term="INFO"/>
             <category term="DRESS CODE"/>
 
         <updated>2025-04-01T09:59:33+02:00</updated>
@@ -59,6 +61,7 @@
         <link href="https://linusesperanza.github.io/kids.html"/>
         <id>https://linusesperanza.github.io/kids.html</id>
             <category term="KIDS"/>
+            <category term="INFO"/>
 
         <updated>2025-03-31T11:02:19+02:00</updated>
             <summary>
