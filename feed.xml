@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>L 🤍 E</title>
+    <title>L ♡ E</title>
     <link href="https://linusesperanza.github.io/feed.xml" rel="self" />
     <link href="https://linusesperanza.github.io" />
-    <updated>2025-04-03T07:07:42+02:00</updated>
+    <updated>2025-04-03T10:31:38+02:00</updated>
     <author>
         <name>Linus Lejdfelt</name>
     </author>
     <id>https://linusesperanza.github.io</id>
 
+    <entry>
+        <title>The ceremony</title>
+        <author>
+            <name>Linus Lejdfelt</name>
+        </author>
+        <link href="https://linusesperanza.github.io/wedding-party-of-the-century-2.html"/>
+        <id>https://linusesperanza.github.io/wedding-party-of-the-century-2.html</id>
+        <media:content url="https://linusesperanza.github.io/media/posts/13/Tuve_kyrka-2.png" medium="image" />
+            <category term="INFO"/>
+
+        <updated>2025-04-03T10:30:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://linusesperanza.github.io/media/posts/13/Tuve_kyrka-2.png" alt="" />
+                    The ceremony will be held in beautiful Tuve church. The church was consecrated in 1745, and for generations, people have&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://linusesperanza.github.io/media/posts/13/Tuve_kyrka-2.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    The ceremony will be held in beautiful Tuve church. The church was consecrated in 1745, and for generations, people have gathered here for worship and prayer.<br>⛪️  Tuve church
+<br>📍    Tuve Kyrkväg 35, 417 46 Göteborg
+<br>🕑  14.00<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The dinner party </title>
         <author>
@@ -45,19 +74,19 @@
         </author>
         <link href="https://linusesperanza.github.io/gifts.html"/>
         <id>https://linusesperanza.github.io/gifts.html</id>
-        <media:content url="https://linusesperanza.github.io/media/posts/10/gift_cube-2.png" medium="image" />
+        <media:content url="https://linusesperanza.github.io/media/posts/10/gift3.png" medium="image" />
             <category term="INFO"/>
 
         <updated>2025-04-01T10:02:18+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://linusesperanza.github.io/media/posts/10/gift_cube-2.png" alt="" />
+                        <img src="https://linusesperanza.github.io/media/posts/10/gift3.png" alt="" />
                     Once again, you joining is such a blessing already. However…Any contribution, big or small, towards our honeymoon fund will help&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://linusesperanza.github.io/media/posts/10/gift_cube-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://linusesperanza.github.io/media/posts/10/gift3.png" class="type:primaryImage" alt="" /></p>
                 <p>Once again, you joining is such a blessing already. However…Any contribution, big or small, towards our honeymoon fund will help us make memories that will last a lifetime. More details coming soon.</p>
             ]]>
         </content>
@@ -69,19 +98,19 @@
         </author>
         <link href="https://linusesperanza.github.io/dress-code-2.html"/>
         <id>https://linusesperanza.github.io/dress-code-2.html</id>
-        <media:content url="https://linusesperanza.github.io/media/posts/9/outfit_cube.png" medium="image" />
+        <media:content url="https://linusesperanza.github.io/media/posts/9/ed2609fb95934f7db4a055ac522f07f7.png" medium="image" />
             <category term="INFO"/>
 
         <updated>2025-04-01T09:59:33+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://linusesperanza.github.io/media/posts/9/outfit_cube.png" alt="" />
+                        <img src="https://linusesperanza.github.io/media/posts/9/ed2609fb95934f7db4a055ac522f07f7.png" alt="" />
                     Honestly, we’re just happy that you’re joining. If clothes stress you out, don’t worry – wear whatever you feel comfortable&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://linusesperanza.github.io/media/posts/9/outfit_cube.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://linusesperanza.github.io/media/posts/9/ed2609fb95934f7db4a055ac522f07f7.png" class="type:primaryImage" alt="" /></p>
                 <p>Honestly, we’re just happy that you’re joining. If clothes stress you out, don’t worry – wear whatever you feel comfortable in. However…if you do care, we would love to see you wear something colorful.</p>
             ]]>
         </content>
@@ -166,35 +195,6 @@
     </figure>
     </div>
   </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The ceremony </title>
-        <author>
-            <name>Linus Lejdfelt</name>
-        </author>
-        <link href="https://linusesperanza.github.io/wedding-party-of-the-century.html"/>
-        <id>https://linusesperanza.github.io/wedding-party-of-the-century.html</id>
-        <media:content url="https://linusesperanza.github.io/media/posts/1/Tuve_kyrka-2.png" medium="image" />
-            <category term="INFO"/>
-
-        <updated>2025-03-31T08:40:19+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://linusesperanza.github.io/media/posts/1/Tuve_kyrka-2.png" alt="" />
-                    will be held in beautiful Tuve church. The church was consecrated in 1745, and for generations, people have gathered here&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://linusesperanza.github.io/media/posts/1/Tuve_kyrka-2.png" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    will be held in beautiful Tuve church. The church was consecrated in 1745, and for generations, people have gathered here for worship and prayer.<br>⛪️  Tuve church
-<br>📍    Tuve Kyrkväg 35, 417 46 Göteborg
-<br>🕑  14.00<br>
-  </p>
             ]]>
         </content>
     </entry>
